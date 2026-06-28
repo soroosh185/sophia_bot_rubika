@@ -65,6 +65,11 @@
 ### پیش‌نیازها
 
 ```bash
+git clone https://github.com/soroush185/sophia_bot_rubika.git
+cd sophia_bot_rubika
+```
+
+```bash
 pip install rubka aiohttp httpx jdatetime hijridate convertdate pytz
 ```
 
