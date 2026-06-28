@@ -86,8 +86,6 @@ pip install rubka aiohttp httpx jdatetime hijridate convertdate pytz
 
 - کانال رسمی: `@sophia_bot_rubika`
 - راهنما و آموزش: `@help_sophia`
-- گروه پشتیبانی: [کلیک کنید](https://rubika.ir/joing/JIFHBGAA0TEJCDWLFDRBOTTLGHCTNBVR)
-
 ---
 
 ## 📜 لایسنس
@@ -198,7 +196,6 @@ Group settings are initialized from `defalts.py` and stored in the SQLite databa
 
 - Official Channel: `@sophia_bot_rubika`
 - Help & Tutorials: `@help_sophia`
-- Support Group: [Join Here](https://rubika.ir/joing/JIFHBGAA0TEJCDWLFDRBOTTLGHCTNBVR)
 
 ---
 
