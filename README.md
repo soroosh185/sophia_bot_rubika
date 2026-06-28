@@ -66,6 +66,9 @@
 
 ```bash
 git clone https://github.com/soroush185/sophia_bot_rubika.git
+```
+
+```bash
 cd sophia_bot_rubika
 ```
 
@@ -167,6 +170,14 @@ Sophia is a professional, feature-rich group management bot for the **Rubika** m
 ## ⚙️ Installation & Setup
 
 ### Requirements
+
+```bash
+git clone https://github.com/soroush185/sophia_bot_rubika.git
+```
+
+```bash
+cd sophia_bot_rubika
+```
 
 ```bash
 pip install rubka aiohttp httpx jdatetime hijridate convertdate pytz
