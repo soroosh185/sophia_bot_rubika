@@ -65,7 +65,7 @@
 ### پیش‌نیازها
 
 ```bash
-git clone https://github.com/soroush185/sophia_bot_rubika.git
+git clone https://github.com/soroosh185/sophia_bot_rubika.git
 ```
 
 ```bash
@@ -172,7 +172,7 @@ Sophia is a professional, feature-rich group management bot for the **Rubika** m
 ### Requirements
 
 ```bash
-git clone https://github.com/soroush185/sophia_bot_rubika.git
+git clone https://github.com/soroosh185/sophia_bot_rubika.git
 ```
 
 ```bash
